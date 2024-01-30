@@ -1,5 +1,5 @@
 # What Do You Wanna See
-## Thanks to my teammate @zaimizem for this project.
+## Thanks to my teammate @izemz for this project.
 This is a movie recommender that uses keywords. 
 
 First you need to enter at least 5 keywords and you need to click Show Recommendation button. 
